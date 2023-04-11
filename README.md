@@ -40,8 +40,13 @@ Un sistema de prohibición que interactúa con una base de datos, tiene la posib
 - Tipo de ban: Introduce el tipo de ban (IP / STEAMID / HID).
 - Ejecutar el ban: Ejecuta el ban al usuario.
 
+![ban3](https://user-images.githubusercontent.com/94066331/231139964-808dffce-8972-4317-8c4f-64fc3515b35a.png)
+
+
+# USUARIO BANEADO
 ![ban](https://user-images.githubusercontent.com/94066331/231139528-03dfee5f-c6e6-45c4-9796-d7a376e1f49b.png)
 ![ban2](https://user-images.githubusercontent.com/94066331/231139668-cae4a48b-eb06-4d01-b745-debfe8662054.png)
 
 
+# ENLACE PARA SU USO
 - https://amxmodx-es.com/Thread-Sistema-de-ban-SQLite3-Actualizaci%C3%B3n-17-02-2019
